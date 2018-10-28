@@ -1,0 +1,20 @@
+{
+  "name": "apify_webscrapers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@google-cloud/language": "^2.0.0",
+    "@google/maps": "^0.5.5",
+    "axios": "0.18.0",
+    "moment": "^2.22.2",
+    "rxjs": "^5.4.0",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}

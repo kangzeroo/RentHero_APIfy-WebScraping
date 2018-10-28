@@ -1,0 +1,10 @@
+parsing/sentiment/data/*
+scraping/kijiji/data/*
+scraping/yelp/pm_data/pages/*
+scraping/yelp/pm_data/urls/*
+scraping/yelp/realty_data/pages/*
+scraping/yelp/realty_data/urls/*
+scraping/zumper/data/*
+visualizing/webapp/node_modules
+visualizing/webapp/.git
+visualizing/webapp/dist
